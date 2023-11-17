@@ -9,8 +9,8 @@
 <img src ="https://github.com/dohun-mat/llm_Rag_study/assets/81942144/bd17796d-714d-4ff9-82bb-4ff794634167" width = "600" height="400"/>  
 
 
-#### ●flask로 chatgpt 웹구현)  - [flask로 chatgpt 웹구현 git 링크](https://github.com/dohun-mat/llm_Rag_study/tree/main/chat-gpt-starter)  
-![image](https://github.com/dohun-mat/llm_Rag_study/assets/81942144/d6a22dd8-eb7d-4c4a-b496-49bef203bd51)  
+#### ●flask로 chatgpt 웹구현)  - [flask로 chatgpt 웹구현 git 링크](https://github.com/dohun-mat/llm_Rag_study/tree/main/chat-gpt-starter)
+<img src ="https://github.com/dohun-mat/llm_Rag_study/assets/81942144/d6a22dd8-eb7d-4c4a-b496-49bef203bd51" width = "600" height="400"/>
 
 
 
