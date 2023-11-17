@@ -6,7 +6,7 @@
 #### ●rag(검색증강기법)을 활용한 chatgpt 구현 - [rag_chatgpt 구현 git 링크](https://github.com/dohun-mat/llm_Rag_study/tree/main/RAG-main)  
 #### ●chatgpt를 이용한 pdf_reader 구현 - [pdf_reader_chatgit 구현 git 링크](https://github.com/dohun-mat/llm_Rag_study/tree/main/pdf_read)  
 #### ●django로 웹사이트 구현(아직 공부가 필요함)  - [django로 웹사이트 구현 git 링크](https://github.com/dohun-mat/llm_Rag_study/tree/main/mysite)  
-<img src ="https://github.com/dohun-mat/llm_Rag_study/assets/81942144/bd17796d-714d-4ff9-82bb-4ff794634167" width = "800" height="600"/>  
+<img src ="https://github.com/dohun-mat/llm_Rag_study/assets/81942144/bd17796d-714d-4ff9-82bb-4ff794634167" width = "600" height="400"/>  
 
 
 #### ●flask로 chatgpt 웹구현)  - [flask로 chatgpt 웹구현 git 링크](https://github.com/dohun-mat/llm_Rag_study/tree/main/chat-gpt-starter)  
