@@ -10,8 +10,7 @@
 width = "300" height="300"/>  
 #### ●flask로 chatgpt 웹구현  - [flask로 chatgpt 웹구현 git 링크](https://github.com/dohun-mat/llm_Rag_study/tree/main/chat-gpt-starter)  
 <img src ="https://github.com/dohun-mat/llm_Rag_study/assets/81942144/d6a22dd8-eb7d-4c4a-b496-49bef203bd51" width = "400" height="300"/>  
-#### ●bert 공부  - [bert공부 git 링크](https://github.com/dohun-mat/care_cruis_repo/tree/main/bert  
-)
+#### ●bert 공부  - [bert공부 git 링크](https://github.com/dohun-mat/care_cruis_repo/tree/main/bert)
 
 
 
