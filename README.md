@@ -13,6 +13,8 @@ width = "300" height="300"/>
 
 #### ●bert 공부  - [bert공부 git 링크](https://github.com/dohun-mat/care_cruis_repo/tree/main/bert)  
 #### ●암호화 공부  - [암호화 공부 git 링크](https://github.com/dohun-mat/care_cruis_repo/tree/main/encryption)  
+#### ●llm개발  - [llm 개발 git 링크](https://github.com/dohun-mat/care_cruis_repo/tree/main/llm_develop)    
+
 
 
 
