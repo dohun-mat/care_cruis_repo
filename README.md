@@ -13,7 +13,7 @@
 #### ●llm개발  - [llm 개발 git 링크](https://github.com/dohun-mat/care_cruis_repo/tree/main/llm_develop)    
 
 
-
+상담데이터셋으로 PEFT의 Qlora방식을 통해서 성능이 좋은 모델들을 파인튜닝하여 성능을 검증하고 상담챗봇모델구현
 
 
 
